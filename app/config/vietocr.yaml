@@ -1,0 +1,5 @@
+device: 'cuda:0'
+weights: "weights/seq2seq_vbc583.pth"
+# weights: "weights/vietocr_vbc583.pth"
+config_name: "vgg_seq2seq"
+config_file: "libs/vietocr/config/vgg-seq2seq.yml"

@@ -1,0 +1,5 @@
+__pycache__/
+
+*.pth
+info.log
+.DS_Store
